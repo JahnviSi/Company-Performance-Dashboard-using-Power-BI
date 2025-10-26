@@ -3,6 +3,8 @@
 
 This project is a company performance reporting dashboard developed in Power BI for a plant supply company that delivers plants to various companies across multiple countries. The dashboard tracks and analyses key business metrics such as sales, quantity, and gross profit, enabling comparisons of current year performance versus the previous year and detailed drill-downs by country, product, and client.
 
+![alt text](Performance Review Dashboard.png)
+
 ## Key Features
 
 Data Cleaning & Transformation: Used Power Query to clean and standardise raw sales and supply data.
