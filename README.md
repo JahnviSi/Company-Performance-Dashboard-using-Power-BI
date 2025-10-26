@@ -3,7 +3,7 @@
 
 This project is a company performance reporting dashboard developed in Power BI for a plant supply company that delivers plants to various companies across multiple countries. The dashboard tracks and analyses key business metrics such as sales, quantity, and gross profit, enabling comparisons of current year performance versus the previous year and detailed drill-downs by country, product, and client.
 
-![alt_text](Performance Review Dashboard.png)
+![alt_text](https://github.com/JahnviSi/Company-Performance-Dashboard-using-Power-BI/blob/0ae73d3620f6fe31c26adeee42f210bf51cc81fe/Performance%20Review%20Dashboard.png)
 
 ## Key Features
 
